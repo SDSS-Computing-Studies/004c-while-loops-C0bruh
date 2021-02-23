@@ -24,7 +24,7 @@ b=""
 
 
 while b!=0:
-    a=input("float number")
+    a=input("float number - ")
     a=float(a)
     b=a%2
     if b!=0:
